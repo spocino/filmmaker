@@ -2,7 +2,7 @@
 Version=0.0.0
 Name=Filmmaker
 GenericName=Video Editor
-Comment=Create videos and movies
+Comment=Create and edit videos and movies
 Exec=com.github.spocino.filmmaker
 Icon=com.github.spocino.filmmaker
 Terminal=false

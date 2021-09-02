@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2021 Samuel Pocino <sam.pocino@gmail.com> -->
+<component type="desktop">
+  <id>com.github.spocino.filmmaker</id>
+  <launchable type="desktop-id">com.github.spocino.filmmaker.desktop</launchable>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>Filmmaker</name>
+  <summary>Create and edit videos and movies</summary>
+  <description>
+    <p>
+      A simple video editor for making videos and movies. All actions 
+      are non-destructive and automatically saved, so there's no need 
+      to worry about losing your work.
+    </p>
+    <p>
+      Additional features include:
+    </p>
+    <ul>
+      <li>Subtitle editing</li>
+      <li>Sharing to social media</li>
+      <li>Green screen effects</li>
+    </ul>
+  </description>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">none</content_attribute>
+    <content_attribute id="violence-fantasy">none</content_attribute>
+    <content_attribute id="violence-realistic">none</content_attribute>
+    <content_attribute id="violence-bloodshed">none</content_attribute>
+    <content_attribute id="violence-sexual">none</content_attribute>
+    <content_attribute id="violence-desecration">none</content_attribute>
+    <content_attribute id="violence-slavery">none</content_attribute>
+    <content_attribute id="violence-worship">none</content_attribute>
+    <content_attribute id="drugs-alcohol">none</content_attribute>
+    <content_attribute id="drugs-narcotics">none</content_attribute>
+    <content_attribute id="drugs-tobacco">none</content_attribute>
+    <content_attribute id="sex-nudity">none</content_attribute>
+    <content_attribute id="sex-themes">none</content_attribute>
+    <content_attribute id="sex-homosexuality">none</content_attribute>
+    <content_attribute id="sex-prostitution">none</content_attribute>
+    <content_attribute id="sex-adultery">none</content_attribute>
+    <content_attribute id="sex-appearance">none</content_attribute>
+    <content_attribute id="language-profanity">none</content_attribute>
+    <content_attribute id="language-humor">none</content_attribute>
+    <content_attribute id="language-discrimination">none</content_attribute>
+    <content_attribute id="social-chat">none</content_attribute>
+    <content_attribute id="social-info">none</content_attribute>
+    <content_attribute id="social-audio">none</content_attribute>
+    <content_attribute id="social-location">none</content_attribute>
+    <content_attribute id="social-contacts">none</content_attribute>
+    <content_attribute id="money-purchasing">none</content_attribute>
+    <content_attribute id="money-gambling">none</content_attribute>
+  </content_rating>
+  <developer_name>Samuel Pocino</developer_name>
+  <url type="homepage">https://spocino.github.io/filmmaker/</url>
+  <url type="bugtracker">https://github.com/spocino/filmmaker/issues</url>
+  <x-appcenter-color-primary>#68b723</x-appcenter-color-primary>
+  <x-appcenter-color-primary-text>#333333</x-appcenter-color-primary-text>
+</component>
